@@ -24,7 +24,7 @@ query: "Wakad"
 
 file: (optional Excel .xlsx)
 
-2️⃣ Frontend (React)
+Frontend (React)
 cd frontend
 npm install
 npm run dev
